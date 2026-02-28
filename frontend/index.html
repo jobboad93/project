@@ -6,8 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sorry Sahithi 🙂</title>
   </head>
+
   <body>
     <div id="root"></div>
+
+    <!-- ✅ Netlify Hidden Form (Required for detection) -->
+    <form name="forgive-click" method="POST" data-netlify="true" hidden>
+      <input type="hidden" name="form-name" value="forgive-click" />
+      <input type="text" name="clickedAt" />
+      <input type="text" name="userAgent" />
+    </form>
+
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
