@@ -17,7 +17,7 @@ function Letter() {
     },
     {
       emoji: "😅",
-      text: "Oka vishayam chepana... aa 🤭 cute face ki antha kopam ela vasthundhi andi babu..? 😅 Normal gane nuvu chala cute ga untavu... 🤗 kani kopam lo inka entha cute ga untavo chudali anipisthundi... ✨️ Kani.. aa kopam ki karanam nenu ayithe naku baadha ga anipistundhi... 😓"
+      text: "Oka vishayam chepana... 🤭 aa cute face ki antha kopam ela vasthundhi andi babu..? 😅 Normal gane nuvu chala cute ga untavu... 🤗 kani kopam lo inka entha cute ga untavo chudali anipisthundi... ✨️ Kani.. aa kopam ki karanam nenu ayithe naku baadha ga anipistundhi... 😓"
     },
     {
       emoji: "📸",
