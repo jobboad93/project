@@ -186,6 +186,17 @@ function Forgive() {
               className="bg-white/15 backdrop-blur-md rounded-3xl shadow-2xl p-8 md:p-12 text-center border border-white/20 animate-pulse-glow"
             >
               {/* Icon */}
+              {/* Icon */}
+              <motion.div
+                animate={{ 
+                  scale: [1, 1.2, 1],
+                  rotate: [0, 10, -10, 0]
+                }}
+                transition={{ duration: 3, repeat: Infinity }}
+                className="text-7xl mb-6"
+              >
+                💌
+              </motion.div>
               <motion.div
                 animate={{
                   scale: [1, 1.2, 1],
