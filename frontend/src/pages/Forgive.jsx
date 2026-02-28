@@ -197,16 +197,7 @@ function Forgive() {
               >
                 💌
               </motion.div>
-              <motion.div
-                animate={{
-                  scale: [1, 1.2, 1],
-                  rotate: [0, 10, -10, 0],
-                }}
-                transition={{ duration: 3, repeat: Infinity }}
-                className="text-7xl mb-6"
-              >
-                💌
-              </motion.div>
+           
               {/* Icon */}
               <motion.h1
                 className="text-3xl md:text-5xl font-bold mb-10 text-white leading-relaxed"
